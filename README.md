@@ -1927,7 +1927,7 @@ let o = {
 
 
 
-References**：
+**References**：
 
 1. 喜马拉雅-陪你读书（JavaScript WEB前端），沙溢
 2. JavaScript 高级程序设计，第3版
